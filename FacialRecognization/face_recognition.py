@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar  9 20:31:56 2019
-
-@author: zhuzitong
-"""
 
 
 import cv2
